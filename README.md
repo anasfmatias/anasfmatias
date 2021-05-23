@@ -25,7 +25,9 @@
     
 - 📫 If you are passionate about Data Science, share/discuss your ideas or give an honest opinion about my work, please get in touch.
 I'm also interested in open source projects.👇
-
+      * [Email](anasfmatias@gmail.com)
+      * [Linkedin](https://www.linkedin.com/in/anasfmatias/)
+      * [Twitter](twitter.com/anasfmatias)
 <!---
 anasfmatias/anasfmatias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
