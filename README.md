@@ -5,7 +5,7 @@
 - 🌱  I’m currently learning Statistics, Machine Leaning and sharing my report writing skills.
 
 - 💻  Courses that I'm currently taking/ programs that I'm enrolled:
-    * [DataCamp] (https://learn.datacamp.com/)
+    * [DataCamp](https://learn.datacamp.com/)
     * [Business Writing Immersion](https://www.udemy.com/course/business-writing-immersion/)
     * [Complete Guide to TensorFlow for Deep Learning in Python](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/learn/lecture/7798546?start=15#overview)
     
