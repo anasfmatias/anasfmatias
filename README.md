@@ -6,7 +6,7 @@
 
 - 💻  Courses that I'm currently taking/ programs that I'm enrolled:
     * [Snowflake Warehousing Workshop](https://learn.snowflake.com/tracks)
-    * [Python for Production](https://corise.com/course/python-production
+    * [Python for Production](https://corise.com/course/python-production)
     * [Complete Guide to TensorFlow for Deep Learning in Python](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/learn/lecture/7798546?start=15#overview)
     
 - 📚  My top 5 books that I'm reading/plan to read soon:
