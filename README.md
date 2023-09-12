@@ -1,24 +1,24 @@
 👋 Hi, I’m Ana 
 
-- 👀  I’m passionate about Data Quality, Data Science, Artificial Intelligence, Cryptocurrencies, Stock Market and disruptive innovation in general.
+- 👀  I’m passionate about Data and Analysis and disruptive innovation in general.
 
-- 🌱  I’m currently learning Statistics, Machine Leaning and sharing my report writing skills.
+- 🌱  I’m currently learning Statistics, Machine Learning and sharing my report writing skills.
 
 - 💻  Courses that I'm currently taking/ programs that I'm enrolled:
     * [Snowflake Warehousing Workshop](https://learn.snowflake.com/tracks)
     * [Python for Production](https://corise.com/course/python-production)
-    * [Complete Guide to TensorFlow for Deep Learning in Python](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/learn/lecture/7798546?start=15#overview)
+    * [Fighting Churn](https://www.manning.com/books/fighting-churn-with-data)
     
 - 📚  My top 5 books that I'm reading/plan to read soon:
     * [Hands on Machine learning with Scikit Learn Keras and Tensor Flow](https://github.com/ageron/handson-ml2)
     * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-    * [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
-    * [An Introduction to Statistical Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6009dd9fa7bc363aa822d2c7/1611259312432/ISLR+Seventh+Printing.pdf)
+    * [Measure What Matters](https://www.shortform.com/summary/measure-what-matters-summary-john-doerr?gclid=Cj0KCQjwmICoBhDxARIsABXkXlIqxcvM32xIXS5jXmLhp46TFilSxYwm9ppQOZSZEv-5XmvjPqcXrL4aAiE2EALw_wcB)
+    * [Thinking clearly with data](https://www.amazon.co.uk/Thinking-Clearly-Data-Quantitative-Reasoning/dp/0691214352/ref=asc_df_0691214352/?tag=googshopuk-21&linkCode=df0&hvadid=528422740949&hvpos=&hvnetw=g&hvrand=16557848998872475736&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045917&hvtargid=pla-1291031889526&psc=1&th=1&psc=1)
     * [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)
     
 - 📰  My top 5 favourite websites/blogs for DataScience and Machine Learning:
     * [Machine Learning Mastery](https://machinelearningmastery.com/)
-    * [Elite Data Science](https://elitedatascience.com/)
+    * [Olga Berezovshy](https://substack.com/@dataanalysis)
     * [KDnuggets](https://www.kdnuggets.com/)
     * [Analytics Vidhya](https://www.analyticsvidhya.com/)
     * [Towards Data Science](https://towardsdatascience.com/)
